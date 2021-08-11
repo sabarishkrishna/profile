@@ -1,0 +1,382 @@
+body {
+	background-color: black !important;
+}
+
+.top h1 {
+  font-family: 'DotGothic16', sans-serif;
+}
+
+.contact-me{
+  padding: 150px !important;
+}
+
+.res{
+  position: absolute;
+  top: 500px;
+  left: 200px;
+}
+
+
+.letter {
+	font-family: 'Fascinate', cursive;
+	color: white;
+	position: absolute;
+	padding: 40px;
+	padding-top: 200px;
+}
+
+
+.code {
+  padding: 10px;
+  position: absolute;
+  font-size: 50px !important;
+  top: 500px !important;
+  left: 450px;
+  font-family: 'DotGothic16', sans-serif !important;
+  position: center;
+  overflow: hidden; /* Ensures the content is not revealed until the animation */
+  border-right: .15em solid black; /* The typwriter cursor */
+  white-space: nowrap; /* Keeps the content on a single line */
+  margin: 0 auto; /* Gives that scrolling effect as the typing happens */
+  letter-spacing: .15em; /* Adjust as needed */
+  animation: 
+    typing 6.5s steps(20, end),
+    blink-caret .5s step-end infinite;
+}
+
+.resume {
+  margin-left: 20px !important;
+  bottom: 20px;
+}
+.resume-item pb-0 {
+  margin-left: 10px !important;
+  bottom: 20px !important;
+}
+
+.fa:hover {
+    opacity: 0.7;
+}
+
+.fa-facebook {
+  background: #3B5998;
+  color: white;
+}
+
+.fa {
+  padding: 20px;
+  font-size: 30px;
+  width: 30px;
+  text-align: center;
+  text-decoration: none;
+  margin: 5px 2px;
+  border-radius: 50%;
+}
+
+.fa-linkedin {
+  background: red;
+  color: white;
+  margin-left: 300px;
+}
+.fa-instagram {
+  background: #125688;
+  color: white;
+}
+
+#image {
+	padding-bottom: 0px;
+	padding-top: 0px;
+}
+
+
+.about {
+  font-family: 'Indie Flower', cursive;
+	width: 50%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+	font-size: 30px;
+  margin-left: 350px;
+	padding-bottom: 10px;
+  position: relative;
+}
+
+
+
+.nav-link .head {
+	font-family: 'DotGothic16', sans-serif;
+}
+
+.power {
+	color: white;
+	position: center !important;
+}
+
+h1 {
+	padding-top: 5em;
+	font-size: 50px !important;
+	display: flex !important;
+  justify-content: center;
+}
+
+.typewrite h1 {
+  padding: 10px;
+  font-family: 'DotGothic16', sans-serif;
+  position: center;
+  overflow: hidden; /* Ensures the content is not revealed until the animation */
+  border-right: .15em solid black; /* The typwriter cursor */
+  white-space: nowrap; /* Keeps the content on a single line */
+  margin: 0 auto; /* Gives that scrolling effect as the typing happens */
+  letter-spacing: .15em; /* Adjust as needed */
+  animation: 
+    typing 6.5s steps(20, end),
+    blink-caret .5s step-end infinite;
+}
+
+.skill {
+  font-family: 'Indie Flower', cursive;
+}
+
+/* The typing effect */
+@keyframes typing {
+  from { width: 0 }
+  to { width: 50% }
+}
+
+ /*The typewriter cursor effect */
+@keyframes blink-caret {
+  from, to { border-color: transparent }
+  50% { border-color: white; }
+}
+
+.sec {
+  padding: 10px;
+  position: absolute;
+  font-size: 50px !important;
+  top: 550px;
+  left: -20px !important;
+  font-family: 'DotGothic16', sans-serif !important;
+  position: center;
+  overflow: hidden; /* Ensures the content is not revealed until the animation */
+  border-right: .15em solid black; /* The typwriter cursor */
+  white-space: nowrap; /* Keeps the content on a single line */
+  margin: 0 auto; /* Gives that scrolling effect as the typing happens */
+  letter-spacing: .15em; /* Adjust as needed */
+  animation: 
+    typing 6.5s steps(20, end),
+    blink-caret .5s step-end infinite;
+} 
+
+section {
+  top: 20px !important;
+}
+
+.fire {
+  padding-top: 500px !important;
+  margin-left: 10px !important;
+}
+.top {
+	position: absolute;
+	top: 50px;
+	font-family: 'DotGothic16', sans-serif;
+	font-size: 50px;
+	left: 500px;
+}
+
+
+p {
+	font-size: 20px;
+	position: absolute;
+	right: 20px !important;
+}
+
+.resume {
+  margin-top: 900px;
+}
+
+.skills {
+  background: #11cdd4;
+  width: 40%;
+  float: left;
+  margin-left: 40px;
+  margin-top: 550px; 
+
+  background-image: -webkit-linear-gradient(top, #11cdd4, #11999e);
+  background-image: -moz-linear-gradient(top, #11cdd4, #11999e);
+  background-image: -ms-linear-gradient(top, #11cdd4, #11999e);
+  background-image: -o-linear-gradient(top, #11cdd4, #11999e);
+  background-image: linear-gradient(to bottom, #11cdd4, #11999e);
+  -webkit-border-radius: 8;
+  -moz-border-radius: 8;
+  border-radius: 8px;
+  font-family: 'Montserrat', sans-serif;
+  color: #ffffff;
+  font-size: 20px;
+  padding: 10px 20px 20px 20px;
+  text-decoration: none;
+}
+
+.topic {
+	color: black !important;
+}
+
+.middle1{
+  margin-left: 350px !important;
+}
+
+.middle{
+  margin-left: 600px;
+  size: 30px !important;
+}
+
+.se{
+  padding: 10px;
+  position: absolute;
+  font-size: 50px !important;
+  top: 550px;
+  left: -20px !important;
+  font-family: 'DotGothic16', sans-serif !important;
+  position: center;
+  overflow: hidden; /* Ensures the content is not revealed until the animation */
+  border-right: .15em solid black; /* The typwriter cursor */
+  white-space: nowrap; /* Keeps the content on a single line */
+  margin: 0 auto; /* Gives that scrolling effect as the typing happens */
+  letter-spacing: .15em; /* Adjust as needed */
+  animation: 
+  typing 6.5s steps(20, end),
+  blink-caret .5s step-end infinite;
+  top: 10px !important;
+  margin-left: 2px !important;
+}
+
+.get{
+  font-size: 40px !important;
+  padding-right: 620px !important;
+  font-family: 'Indie Flower', cursive;
+}
+
+
+
+.c {
+	margin-top: 600px !important;
+
+	font-family: 'Indie Flower', cursive;
+}
+
+.side {
+	/*margin-left: 1080px !important;*/
+	font-family: 'DotGothic16', sans-serif;
+}
+
+@media all and (max-width:992px){
+
+ .skills {
+     margin-bottom: 20px;
+ }
+ h1 {
+	padding-top: 5em;
+	font-size: 30px !important;
+	display: flex !important;
+    justify-content: center;
+ }
+ .top {
+ 	position: absolute;
+	top: 150px;
+	font-family: 'DotGothic16', sans-serif;
+	font-size: 20px;
+	left: 150px;
+
+ }
+
+ .example {
+ 	font-size: 10px;
+ }
+
+.code {
+  padding: 10px;
+  position: absolute;
+  font-size: 50px !important;
+  top: 500px !important;
+  left: 60px;
+  font-family: 'DotGothic16', sans-serif !important;
+  position: center;
+  overflow: hidden; /* Ensures the content is not revealed until the animation */
+  border-right: .15em solid black; /* The typwriter cursor */
+  white-space: nowrap; /* Keeps the content on a single line */
+  margin: 0 auto; /* Gives that scrolling effect as the typing happens */
+  letter-spacing: .15em; /* Adjust as needed */
+  animation: 
+    typing 6.5s steps(20, end),
+    blink-caret 0.5s step-end infinite;
+}
+
+@keyframes blink-caret {
+  50% { border-color: black; }
+}
+
+
+
+.about {
+  font-family: 'Indie Flower', cursive;
+  font-size: 20px;
+	width: 50%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+  position: relative;
+}
+
+
+ .skills {
+
+ 	font-size: 15px;
+ 	width: 50%;
+ }
+
+.size {
+	font-size: 20px;
+	margin-left: 20% !important;
+	position: absolute;
+	right: 20px !important;
+}
+
+.mob {
+  padding-top: 10px !important;
+}
+
+.se{
+  padding: 10px;
+  background-color: #000000 !important;
+  position: absolute;
+  font-size: 50px !important;
+  top: 550px;
+  left: -20px !important;
+  font-family: 'DotGothic16', sans-serif !important;
+  position: center;
+  overflow: hidden; /* Ensures the content is not revealed until the animation */
+  border-right: .15em solid black; /* The typwriter cursor */
+  white-space: nowrap; /* Keeps the content on a single line */
+  margin: 0 auto; /* Gives that scrolling effect as the typing happens */
+  letter-spacing: .15em; /* Adjust as needed */
+  animation: 
+  typing 0.5s steps(20, end),
+  blink-caret .5s step-end infinite;
+  top: 10px !important;
+  margin-left: 2px !important;
+}
+
+.get{
+  font-size: 20px !important;
+  position: relative;
+  padding-left: 10px !important;
+  font-family: 'Indie Flower', cursive;
+}
+
+.res{
+  left: 0px;
+}
+
+.middle1{
+  margin-left: 220px !important;
+}
+}
+
+
+

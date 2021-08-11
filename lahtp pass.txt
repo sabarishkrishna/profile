@@ -1,0 +1,44 @@
+
+Thaya G <thaya@sibidharan.me>
+Sun, Feb 14, 11:56 PM (11 days ago)
+to bcc: me
+
+Hi Everyone,
+                    To access the recording video of the course click the below link and enter the password.
+Link:https://discuss.selfmade.ninja/d/94-learn-the-art-of-hacking-through-programming-3-basics
+
+
+
+Password (INTRO): LAHTP@3
+Password (09-11-2020): LAHTP@SESSION1
+Password (10-11-2020): LAHTP@functions
+Password (11-11-2020): LAHTP@controlstructures
+Password (16-11-2020): LAHTP@linux
+Password (17-11-2020): LAHTP@controls
+Password (18-11-2020): LAHTP@picture
+Password (20-11-2020): LAHTP@variables   ---> this video starts from 10.40
+Password (24-11-2020): LAHTP@assignments 
+Password(26-11-2020): LAHTP@arrays
+Password(30-11-2020):LAHTP@formatstrings
+Password(01-12-2020):LAHTP@gamework
+Password(02-12-2020):LAHTP@debugging
+Password(03-12-2020):LAHTP@buffers
+Password(04-12-2020):LAHTP@general
+Password(08-12-2020):LAHTP@stringsc
+Password(10-12-2020):LAHTP@assignmentssolving
+Password(11-12-2020):LAHTP@typedef
+Password(17-12-2020):LAHTP@assignment3
+Password(21-12-2020):LAHTP@introphp
+Password(23-12-2020):LAHTP@php
+Password(28-12-2020):LAHTP@28-12-2020
+Password(29-12-2020):LAHTP@29-12-2020
+Password(30-12-2020):LAHTP@basics
+Password(06-01-2021):LAHTP@06-01-2021
+Password:(07-01-2021):LAHTP@mysql
+Password:(09-01-2021):LAHTP@oops
+Password:(11-01-2021):LAHTP@webdev
+Password:(13-01-2021):LAHTP@2020webdev
+Password:(16-01-2021):LAHTP@signup
+Password:(27-01-2021):LAHTP@27-01-2021
+Password:(31-01-2021):LAHTP3@part1   &    LAHTP3@part2
+Password:(14-02-2021):LAHTP3@gdb
